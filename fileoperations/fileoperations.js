@@ -32,7 +32,3 @@ fs.readFile("input.txt",(err, data) => {
 
 
 
-
-
-
-
