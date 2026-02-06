@@ -13,4 +13,3 @@ const string1 = "ABCD";
 const string2 = "CDAB";
 const result = isRotation(string1, string2);
 console.log(result); // Output: true
-
