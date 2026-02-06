@@ -1,0 +1,12 @@
+{
+    "name": "assignment-1",
+    "version": "1.0.0",
+    "description": "assignment-1 package.json file",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "Shivam Agrawal",
+    "license": "ISC"
+  }

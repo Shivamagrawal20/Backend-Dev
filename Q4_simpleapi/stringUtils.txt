@@ -1,0 +1,5 @@
+
+Original Text: Hello World!, My name is Shivam Agrawal, I am learning Backend Development from Bridgelabz.
+Capitalized: Hello World!, My name is Shivam Agrawal, I am learning Backend Development from Bridgelabz.
+Reversed: .zbalegdirB morf tnempoleveD dnekcaB gninrael ma I ,ahawhsuK ramuK hsradA si eman yM ,!dlroW olleH
+Vowel Count: 28
