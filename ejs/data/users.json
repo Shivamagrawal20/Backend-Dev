@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Shivam",
+        "email": "example@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 2,
+        "name": "Shivam",
+        "email": "example1@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 3,
+        "name": "Shivam",
+        "email": "example2@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 1,
+        "name": "Shivam",
+        "email": "example3@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 4,
+        "name": "Shivam",
+        "email": "example@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 5,
+        "name": "Shivam",
+        "email": "example4@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 6,
+        "name": "Shivam",
+        "email": "example5@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 7,
+        "mame": "Shivam",
+        "email": "example6@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 8,
+        "mame": "Shivam",
+        "email": "example7@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 9,
+        "mame": "Shivam",
+        "email": "example8@gmail.com",
+        "phone": "1234567890"
+    }
+
+]
