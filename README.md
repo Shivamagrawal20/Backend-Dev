@@ -4,8 +4,8 @@ This repository contains assignment answers for Mongoose and MongoDB schema desi
 
 ## Assignment Files
 
-- [Assignment Question 1](./assigment%20question%201.md) - Advantages of Mongoose over native MongoDB driver
-- [Assignment Question 2](./assigment%20question%202.md) - Difference between `findOneAndUpdate()` and `updateOne()`
-- [Assignment Question 3](./assigment%20question%203.md) - Purpose of middleware in Mongoose
-- [Assignment Question 4](./assigment%20question%204.md) - Pagination in Mongoose
-- [Assignment Question 5](./assigment%20question%205.md) - Embedding vs referencing in MongoDB schema design
+- [Assignment Question 1](./1.%20request-logging-system/requestlogging.js) - Create a Request Logging System
+- [Assignment Question 2](./2.%20Multi-Factor%20Authentication%20(JWT%20+%20OTP)/Jwt.js) - Implement Multi-Factor Authentication
+- [Assignment Question 3](./3.%20User%20Activity%20Tracker/user-activity.js) - Build a User Activity Tracker
+- [Assignment Question 4](./4.%20Delete%20System/delete-system.js) - Create a Soft Delete System
+- [Assignment Question 5](./5.%20middleaware/middleware.js) - Build a Data Sanitization Middleware
