@@ -8,3 +8,4 @@ A common approach is using `skip()` and `limit()`:
 4. Use `countDocuments()` to compute total pages.
 
 For very large collections, cursor-based pagination (using `_id` or `createdAt`) is usually more efficient than large `skip()` values.
+

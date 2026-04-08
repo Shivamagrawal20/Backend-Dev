@@ -10,3 +10,4 @@ Common uses:
 - Automatically setting derived fields.
 
 It helps keep controllers/services cleaner by centralizing repeated logic.
+

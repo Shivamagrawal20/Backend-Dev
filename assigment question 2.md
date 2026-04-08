@@ -4,3 +4,4 @@ Explain the difference between `findOneAndUpdate()` and `updateOne()`.
 - `updateOne()` updates one matching document but returns operation metadata like `matchedCount` and `modifiedCount`, not the document.
 
 Use `findOneAndUpdate()` when you need the document back, and `updateOne()` for simple write operations.
+

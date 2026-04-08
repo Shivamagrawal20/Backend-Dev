@@ -13,3 +13,4 @@ Use referencing when:
 - Related documents need independent lifecycle management.
 
 Rule of thumb: embed for locality and simpler reads, reference for scale and flexibility.
+

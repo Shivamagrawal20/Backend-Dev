@@ -9,3 +9,4 @@ Mongoose offers several advantages:
 - Cleaner model-based API with instance/static methods and plugins.
 
 It is especially useful when you want maintainable, structured application code around MongoDB.
+
